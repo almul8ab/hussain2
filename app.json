@@ -92,7 +92,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "https://github.com/almul8ab/hussain",
+      "value": "https://github.com/almul8ab/BOT",
       "required": false
     }
   },
